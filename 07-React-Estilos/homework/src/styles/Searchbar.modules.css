@@ -1,0 +1,21 @@
+.input{
+    background-color: rgb(230, 120, 138);
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 5px 0px 0px 0px;
+
+}
+::placeholder{
+    color: black;
+}
+
+.boton{
+border-radius: 10px;
+cursor:pointer;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-decoration: none;
+color:rgb(230, 120, 138);
+background-color: salmon;
+
+
+}
